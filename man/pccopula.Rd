@@ -2,8 +2,7 @@
 % Please edit documentation in R/RkMetrics_functions.R
 \name{pccopula}
 \alias{pccopula}
-\title{Produces a plot of a copula, which can be used to assess the dependency between
-two sexes bounded by the actual and the expanded mortality estimates}
+\title{A Plotting Function}
 \usage{
 pccopula(theta, pl = 1, z)
 }

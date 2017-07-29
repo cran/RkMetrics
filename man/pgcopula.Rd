@@ -2,8 +2,7 @@
 % Please edit documentation in R/RkMetrics_functions.R
 \name{pgcopula}
 \alias{pgcopula}
-\title{Similar to pccopula(), but suitable when the dependence is
-stronger at the older ages}
+\title{A Plotting Function}
 \usage{
 pgcopula(theta, pl = 1, z)
 }

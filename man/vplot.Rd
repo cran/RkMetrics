@@ -2,7 +2,7 @@
 % Please edit documentation in R/RkMetrics_functions.R
 \name{vplot}
 \alias{vplot}
-\title{Produces a similar plot as lplot(), only a transposition of ages is made}
+\title{A Plotting Function}
 \usage{
 vplot(n, x, add = F)
 }

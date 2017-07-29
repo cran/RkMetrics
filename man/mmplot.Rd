@@ -2,7 +2,7 @@
 % Please edit documentation in R/RkMetrics_functions.R
 \name{mmplot}
 \alias{mmplot}
-\title{Produces a plot of the difference between the area-under-the-curve for the mortality data and the extended mortality boundaries}
+\title{A Plotting Function}
 \usage{
 mmplot(n, x, young, old)
 }

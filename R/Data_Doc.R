@@ -14,7 +14,7 @@
 #'
 #' @format A data frame with 6 columns corresponding to:
 #' \describe{
-#'   \item{Year}{Corresponding year of , in US dollars}
+#'   \item{Year}{Corresponding year of data collected}
 #'   \item{Age}{Age of the individual}
 #'   \item{E.Male}{Male Exposed-to-Risk Population}
 #'   \item{E.Female}{Female Exposed-to-Risk Population}
